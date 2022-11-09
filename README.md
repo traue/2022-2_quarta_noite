@@ -1,12 +1,12 @@
 # Programação Visual
 
-Turma 20
+Turma 29 - Quartas - Noite
 
 Prof. Thiago G. Traue
 
 **E-mail:** thiago.traue@uni9.pro.br
 
-**Classroom da disciplina:** [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMDQ1OTA4?cjc=vontgqu)
+**Classroom da disciplina:** [NESTE LINK](https://classroom.google.com/c/NDg4ODEyMTUwMjMz?cjc=asxntvx)
 
 ***
 
@@ -14,7 +14,7 @@ Prof. Thiago G. Traue
 
 Atividades demandadas por esta disciplina:
 
-- Atividade 1: 25.10 até 22.11, 19:30h
+- Atividade 1: 09.11
 
 Todas as atividades deverão ser realizadas via Classroom (link no início deste texto)
 
