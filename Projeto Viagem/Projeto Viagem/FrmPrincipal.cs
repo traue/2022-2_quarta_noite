@@ -14,5 +14,10 @@ namespace Projeto_Viagem
         {
             lblPedagio.Visible = nudPedagio.Visible = chkGastoPedagio.Checked;
         }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            //paramos aqui
+        }
     }
 }
