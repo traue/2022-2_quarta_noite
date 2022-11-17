@@ -5,7 +5,7 @@ Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.Generat
 Z:\4_noite\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe.config
 Z:\4_noite\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.exe
 Z:\4_noite\Projeto Viagem\Projeto Viagem\bin\Debug\Projeto Viagem.pdb
-Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.Form1.resources
 Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.CoreCompileInputs.cache
 Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.exe
 Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.pdb
+Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmPrincipal.resources
