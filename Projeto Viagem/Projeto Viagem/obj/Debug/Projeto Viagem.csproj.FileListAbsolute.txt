@@ -9,3 +9,4 @@ Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.csproj.CoreCom
 Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.exe
 Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto Viagem.pdb
 Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmPrincipal.resources
+Z:\4_noite\Projeto Viagem\Projeto Viagem\obj\Debug\Projeto_Viagem.FrmRelatorio.resources

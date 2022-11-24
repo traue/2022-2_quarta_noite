@@ -17,7 +17,17 @@ namespace Projeto_Viagem
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            //paramos aqui
+            Viagem viagem = new Viagem();
+
+            viagem.Distancia = Convert.ToInt32(nudDistancia.Value);
+            viagem.Consumo = (float)nudConsumo.Value;
+            viagem.VCombustivel = (float)nudCombustivel.Value;
+            viagem.VPedagio = chkGastoPedagio.Checked ? (float)nudPedagio.Value : 0;
+
+            viagem.CalculaViagem();
+
+            FrmRelatorio frmRelatorio = new FrmRelatorio(viagem);
+            frmRelatorio.Show();
         }
     }
 }
