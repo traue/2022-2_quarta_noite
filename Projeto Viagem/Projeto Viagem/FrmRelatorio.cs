@@ -46,7 +46,7 @@ namespace Projeto_Viagem
             {
                 SaveFileDialog saveFileDialog = new SaveFileDialog();
                 saveFileDialog.Filter = "Arquivo de Texto | *.txt";
-                saveFileDialog.FileName = $"Relatorio_{DateTime.Now}";
+                saveFileDialog.FileName = "Relatorio";
                 saveFileDialog.RestoreDirectory = true;
 
                 if (saveFileDialog.ShowDialog() == DialogResult.OK)
