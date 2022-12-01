@@ -1,0 +1,11 @@
+C:\Projetos\4_noite\UniLocadora\UniLocadora\bin\Debug\UniLocadora.exe.config
+C:\Projetos\4_noite\UniLocadora\UniLocadora\bin\Debug\UniLocadora.exe
+C:\Projetos\4_noite\UniLocadora\UniLocadora\bin\Debug\UniLocadora.pdb
+C:\Projetos\4_noite\UniLocadora\UniLocadora\obj\Debug\UniLocadora.csproj.AssemblyReference.cache
+C:\Projetos\4_noite\UniLocadora\UniLocadora\obj\Debug\UniLocadora.csproj.SuggestedBindingRedirects.cache
+C:\Projetos\4_noite\UniLocadora\UniLocadora\obj\Debug\UniLocadora.FrmPrincipal.resources
+C:\Projetos\4_noite\UniLocadora\UniLocadora\obj\Debug\UniLocadora.Properties.Resources.resources
+C:\Projetos\4_noite\UniLocadora\UniLocadora\obj\Debug\UniLocadora.csproj.GenerateResource.cache
+C:\Projetos\4_noite\UniLocadora\UniLocadora\obj\Debug\UniLocadora.csproj.CoreCompileInputs.cache
+C:\Projetos\4_noite\UniLocadora\UniLocadora\obj\Debug\UniLocadora.exe
+C:\Projetos\4_noite\UniLocadora\UniLocadora\obj\Debug\UniLocadora.pdb
