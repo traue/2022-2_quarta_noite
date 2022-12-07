@@ -15,9 +15,9 @@ Prof. Thiago G. Traue
 Atividades demandadas por esta disciplina:
 
 - Atividade 1: 09.11 (AV1 do prof. anterior)
-- Atividade 2: 16.11 até 07.12
-- Atividade 3: 16.11 até 07.12
-- Atividade 4: 16.11 até 07.12
+- Atividade 2: 16.11 até 07.12 - Encerrada
+- Atividade 3: 16.11 até 07.12 - Encerrada
+- Atividade 4: 16.11 até 07.12 - Encerrada
 
 Todas as atividades deverão ser realizadas via Classroom (link no início deste texto)
 
